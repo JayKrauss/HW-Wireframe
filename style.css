@@ -21,6 +21,7 @@ header {
     background-color: #ebebeb;
     margin-top: 10px;
     margin-bottom: 10px;
+    padding: 10px;
 
 }
 
@@ -31,6 +32,7 @@ nav {
     background-color: #ebebeb;
     margin-top: 10px;
     margin-bottom: 10px;
+    padding: 10px;
 
 }
 
@@ -64,7 +66,7 @@ article {
     margin-top: 10px;
     margin-bottom: 10px;
     margin-right: 10px;
-    padding: 10px;
+    padding: 20px;
 
 }
 
@@ -74,6 +76,8 @@ footer {
     height: 40px;
     background-color: #ebebeb;
     margin-top: 10px;
+    padding: 10px;
+    
 }
 
 p {
